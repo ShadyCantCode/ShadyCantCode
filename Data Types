@@ -1,0 +1,15 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		string phrase = "American";
+char grade = 'A';
+int age = 30;
+double gpa 3.2;
+bool isMale = true;
+//these are data types that are tracked in your system
+
+	}
+}
