@@ -1,0 +1,19 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+string characterName ="egg";
+int characterAge;
+//Tells Character's name using the int number 12 
+characterAge = 12;
+ // int number 12 connects to charter age
+Console.WriteLine("a man named " + characterName);
+Console.WriteLine("he was " + characterAge + " years old");
+// characterAge connects to int number
+//space between " makes space when program is ran, fixed
+string characterBame = "roach"; 	
+Console.WriteLine("He became " + characterBame );
+	}
+} 
