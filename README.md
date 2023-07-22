@@ -1,1 +1,1 @@
-My name is shady and I know some basic c#, I've been working hard to get better at coding c#.
+Today I made my first working code for the very simplistic game, flappy bird. This gives me alot of ideas for games I can make in 2d using this new found knowlage of axis stuff
